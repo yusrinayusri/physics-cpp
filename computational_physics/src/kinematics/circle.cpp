@@ -1,7 +1,8 @@
 /*
-* Kinematics - Motion of the Plane
-* > g++ MotionOnThePlane.cpp -0 calc
-* > ./calc < circle.in > circle.out
+* Kinematics - Motion of the Plane 
+* The trajectory of a particle moving on a circle with constant angular velocity
+* > g++ circle.cpp -o circle
+* > ./circle < circle.in > circle.out
 */
 
 #include <__memory/temporary_buffer.h>
